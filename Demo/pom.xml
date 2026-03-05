@@ -1,0 +1,25 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Demo</groupId>
+  <artifactId>Demo</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+
+<dependencies>
+<!-- Source: https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.34.0</version>
+    <scope>compile</scope>
+</dependency>
+
+<dependency>
+<!-- Source: https://mvnrepository.com/artifact/org.testng/testng -->
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.10.2</version>
+    <scope>test</scope>
+</dependency>
+</dependencies>
+
+</project>

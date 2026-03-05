@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-05T11:45:35 IST" name="Default suite" finished-at="2026-03-05T11:45:36 IST" duration-ms="64">
+    <groups>
+    </groups>
+    <test started-at="2026-03-05T11:45:35 IST" name="Default test" finished-at="2026-03-05T11:45:36 IST" duration-ms="64">
+      <class name="com.practice.HardAssertVSSoftAssert">
+        <test-method signature="test_hardassertion()[pri:0, instance:com.practice.HardAssertVSSoftAssert@7f0eb4b4]" started-at="2026-03-05T11:45:35 IST" name="test_hardassertion" finished-at="2026-03-05T11:45:35 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_hardassertion -->
+        <test-method signature="test_softassertion()[pri:0, instance:com.practice.HardAssertVSSoftAssert@7f0eb4b4]" started-at="2026-03-05T11:45:35 IST" name="test_softassertion" finished-at="2026-03-05T11:45:36 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_softassertion -->
+      </class> <!-- com.practice.HardAssertVSSoftAssert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
